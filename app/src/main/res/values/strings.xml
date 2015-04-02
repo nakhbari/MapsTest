@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MapsTest</string>
-<string name="API_KEY">AIzaSyCSTZuliQ0bwVFuucnE_E032ZweU9FUF8E</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
